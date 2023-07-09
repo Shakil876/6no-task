@@ -16,7 +16,7 @@ main {
 .nav {
     width: 1600px;
     height: 808px;
-    background-image: url('/images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     background-repeat: no-repeat;
     margin-bottom: 140px;
 
@@ -148,7 +148,7 @@ ul {
 
 .watchcontainer{
    
-   background-image: url('/images/gradient2.png') , url('/images/watch.png') ;
+   background-image: url('./images/gradient2.png') , url('./images/watch.png') ;
    background-blend-mode: overlay;
 
     background-repeat: no-repeat;
